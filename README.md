@@ -58,7 +58,7 @@ Você pode abrir este notebook diretamente no Google Colab clicando abaixo:
 
 [![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10PysThIthQWhy8r3_kDDCHk8su9ZLzQj?usp=sharing)
 
-> Substitua `[SEU_USUARIO](https://github.com/MorganaSouza)` e `SEU_REPOSITORIO` pela sua URL real do GitHub
+> Substitua `https://github.com/MorganaSouza` e `https://github.com/MorganaSouza/DasafioDataScience2.git` pela sua URL real do GitHub
 
 ---
 
