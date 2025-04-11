@@ -36,7 +36,7 @@ Data: 11/04/2025
 
 Abaixo está o gráfico de dispersão gerado no desafio eletivo 2, representando a correlação entre os Grupos A e B:
 
-![Gráfico de Dispersão](./grafico_dispersao.png)
+![Gráfico de Dispersão](./graficodispersao.png)
 
 > O gráfico mostra uma correlação perfeita positiva (r = 1.0) entre os dois grupos, conforme confirmado pela análise estatística de Pearson.
 
